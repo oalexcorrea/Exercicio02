@@ -39,20 +39,3 @@ function calculateGrade() {
 
 
 calculateGrade()
-
-
-
-
-
-
-
-/*
-function liquidificador(fruta1, fruta2) {
-  const suco = fruta1 + fruta2
-  return suco
-}
-
-let meuSuco = liquidificador(2, "banana")
-
-alert(meuSuco)
-*/
